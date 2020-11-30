@@ -1,13 +1,14 @@
 ---
 title: "FAIR"
-teaching: 0
+teaching: 20
 exercises: 0
 questions:
-- "Key question Open Science <TODO>"
+- "What are the FAIR principles"
 objectives:
-- "To get acquainted with, and reflect upon, the principles of Open Science and FAIR, and how the course content support those. <TODO>"
+- "To get acquainted with, and reflect upon, the principles of FAIR, and how the course content support those. <TODO>"
 keypoints:
-- "Open Science is good. <TODO>"
+- "To be useful for others data should be FAIR - **Findable**, **Accessible**, **Interoperable**, and **Reusable**
+_… for both Machines and Humans_"
 ---
 
 To try to guide the scientific community on how to ensure that the research data is useful for others in the digital age, the FAIR principles were published in 2016.

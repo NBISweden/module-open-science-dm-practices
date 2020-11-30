@@ -1,13 +1,13 @@
 ---
 title: "The political landscape"
-teaching: 0
+teaching: 5
 exercises: 0
 questions:
-- "Key question Open Science <TODO>"
+- "External preasure for Open Science and FAIR"
 objectives:
-- "To get acquainted with, and reflect upon, the principles of Open Science and FAIR, and how the course content support those. <TODO>"
+- "To be acquainted with the surrounding preasure to adhere to the principles of Open Science and FAIR"
 keypoints:
-- "Open Science is good. <TODO>"
+- "There is a strong political preasure for Open Science and FAIR, regionally, nationally, locally"
 ---
 
 Globally, there is an increasing demand at the political level for Open Science and FAIR.
