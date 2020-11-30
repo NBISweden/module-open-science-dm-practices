@@ -40,6 +40,7 @@ Of these, Open data and Open source are some of the main drivers for good Data M
 >   - Researchers don’t get academic credit for being transparent
 >   - You can build a CV faster when being sloppy(?)
 >   - …
+>
 {: .solution}
 
 When surveyed, the research community to a large extent seem to agree to that there is a reproducibility crisis. Many studies have been done on Reproducibility of published research, and regardless of scientific domain, it seems that more or less half of the publications looked at are not possible to reproduce. A large part of those are because the underlying data is not available or not understandable. Often it is also not possible to understand how the analyses were done.
