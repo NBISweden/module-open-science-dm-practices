@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Open Science"
+title: "The political landscape"
 teaching: 0
 exercises: 0
 questions:
@@ -9,8 +9,6 @@ objectives:
 keypoints:
 - "Open Science is good. <TODO>"
 ---
-
-# The political landscape
 
 Globally, there is an increasing demand at the political level for Open Science and FAIR.
 

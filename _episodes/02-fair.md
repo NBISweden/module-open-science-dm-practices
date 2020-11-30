@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Open Science"
+title: "FAIR"
 teaching: 0
 exercises: 0
 questions:
@@ -10,7 +10,6 @@ keypoints:
 - "Open Science is good. <TODO>"
 ---
 
-FAIR (20 min)
 To try to guide the scientific community on how to ensure that the research data is useful for others in the digital age, the FAIR principles were published in 2016.
 
 “To be useful for others data should be FAIR - Findable, Accessible, Interoperable, and Reusable
