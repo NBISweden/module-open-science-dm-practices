@@ -24,7 +24,7 @@ Of these, Open data and Open source are some of the main drivers for good Data M
 > ## Discussion
 >
 > What do you think are reasons for Open Data? Discuss with your neighbours.
-{: .callout}
+{: .discussion}
 
 > ## Some reasons
 >
@@ -49,7 +49,7 @@ It can be argued that not being transparent about the data and methods that are 
 >
 > - Do you think we have a credibility and/or reproducibility crisis?
 > - If so, what are some of its causes?
-{: .callout}
+{: .discussion}
 
 
 > ## Some causes
