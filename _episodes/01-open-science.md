@@ -1,11 +1,11 @@
 ---
 title: "Reasons for Open Science"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 5
 questions:
-- "Key question Open Science <TODO>"
+- "What are reasons for Open Science"
 objectives:
-- "To get acquainted with, and reflect upon, the principles of Open Science and FAIR, and how the course content support those. <TODO>"
+- "To get acquainted with, and reflect upon, the principles of Open Science"
 keypoints:
 - "Open Science is good. <TODO>"
 ---
@@ -26,8 +26,33 @@ Of these, Open data and Open source are some of the main drivers for good Data M
 > What do you think are reasons for Open Data? Discuss with your neighbours.
 {: .callout}
 
-
 > ## Some reasons
+>
+> - Democracy and transparency
+>   - Publicly funded research data should be accessible to all
+>   - Published results and conclusions should be possible to check by others
+> - Research
+>   - Enables others to combine data, address new questions, and develop new analytical methods
+>   - Reduce duplication and waste
+> - Innovation and utilisation outside research
+>   - Public authorities, companies, and private persons outside research can make use of the data
+> - Academic merit
+>   - Citation of data will be a merit for the researcher that produced it
+>
+{: .solution}
+
+
+
+It can be argued that not being transparent about the data and methods that are used to reach the scientific conclusions that you publish, is not ethical. It can be considered to be a waste of resources, potentially harming the profession, public trust in research, and contributing to the current research credibility/reproducibility crisis.
+
+> ## Discussion
+>
+> - Do you think we have a credibility and/or reproducibility crisis?
+> - If so, what are some of its causes?
+{: .callout}
+
+
+> ## Some causes
 >
 > - Credibility
 >   - Research fraud has been exposed
@@ -42,6 +67,10 @@ Of these, Open data and Open source are some of the main drivers for good Data M
 >   - …
 >
 {: .solution}
+
+
+
+
 
 When surveyed, the research community to a large extent seem to agree to that there is a reproducibility crisis. Many studies have been done on Reproducibility of published research, and regardless of scientific domain, it seems that more or less half of the publications looked at are not possible to reproduce. A large part of those are because the underlying data is not available or not understandable. Often it is also not possible to understand how the analyses were done.
 
