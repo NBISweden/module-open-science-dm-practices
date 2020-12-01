@@ -20,36 +20,36 @@ So what this mean? A brief condensed summary:
 
 ### Findable
 
-- Data have a globally unique persistent identifier
+- Data have a **globally unique persistent identifier**
   - e.g. a DOI, database accession number, etc
-- Data are described by metadata
+- Data are described by **metadata**
   - Information that explains the data
-- Data and metadata are findable in a search resource
+- Data and metadata are findable in a **search resource**
   - There must be ways of searching for the data
 
 ### Accessible
 
-- Data is retrievable through a standardised communication protocol (open, free, allowing authentication & authorisation where necessary)
+- Data is retrievable through a **standardised communication protocol** (open, free, allowing authentication & authorisation where necessary)
   - e.g. http, sftp, etc
-- Metadata are accessible, even if data is no longer available
+- Metadata are accessible, **even if data is no longer available**
   - Information about the data can be found even if data is no longer available
 
 ### Interoperable
 
-- Metadata use a formal, accessible, shared language for knowledge representation
+- Metadata use a formal, accessible, shared **language for knowledge representation**
   - …
-- Metadata use vocabularies that follow the FAIR principles
+- Metadata use **vocabularies** that follow the FAIR principles
   - Standardised ways of capturing information about the data
-- Metadata include qualified references to other metadata
+- Metadata include qualified **references** to other metadata
   - …
 
 ### Reusable
 
-- Data have a clear data usage license
+- Data have a clear data usage **license**
   - It is obvious under what conditions the data can be reused
-- Metadata are associated with detailed provenance
+- Metadata are associated with **detailed provenance**
   - The metadata is detailed enough to understand for what research questions it is relevant to reuse
-- Metadata meet domain-relevant community standards
+- Metadata meet domain-relevant community **standards**
   - Metadata is described according to existing standards in the research field
 
 This is quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
