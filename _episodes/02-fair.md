@@ -18,7 +18,7 @@ _“To be useful for others data should be FAIR - Findable, Accessible, Interope
 
 So what this mean? A brief condensed summary:
 
-### Findable
+#### Findable
 
 - Data have a **globally unique persistent identifier**
   - e.g. a DOI, database accession number, etc
@@ -27,14 +27,14 @@ So what this mean? A brief condensed summary:
 - Data and metadata are findable in a **search resource**
   - There must be ways of searching for the data
 
-### Accessible
+#### Accessible
 
 - Data is retrievable through a **standardised communication protocol** (open, free, allowing authentication & authorisation where necessary)
   - e.g. http, sftp, etc
 - Metadata are accessible, **even if data is no longer available**
   - Information about the data can be found even if data is no longer available
 
-### Interoperable
+#### Interoperable
 
 - Metadata use a formal, accessible, shared **language for knowledge representation**
   - …
@@ -43,7 +43,7 @@ So what this mean? A brief condensed summary:
 - Metadata include qualified **references** to other metadata
   - …
 
-### Reusable
+#### Reusable
 
 - Data have a clear data usage **license**
   - It is obvious under what conditions the data can be reused
@@ -51,6 +51,7 @@ So what this mean? A brief condensed summary:
   - The metadata is detailed enough to understand for what research questions it is relevant to reuse
 - Metadata meet domain-relevant community **standards**
   - Metadata is described according to existing standards in the research field
+
 
 This is quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
 

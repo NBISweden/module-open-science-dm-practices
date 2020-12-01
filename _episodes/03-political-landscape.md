@@ -10,6 +10,10 @@ keypoints:
 - "There is a strong political preasure for Open Science and FAIR, regionally, nationally, locally"
 ---
 
+Why should you apply good data management practices and strive to make your research output FAIR?
+
+Primarily because it will benefit your research. But there are other motivators.
+
 Globally, there is an increasing demand at the political level for Open Science and FAIR.
 
 Already in 2012, the European Commission recommended the member states to establish national guidelines for Open Access (publications and data). The Swedish Research Council (Vetenskapsrådet, VR) submitted a proposal to the government in 2015. The government in the Research Bill of 2017 stated an ambition that “research data underlying scientific publications should be openly accessible at the time of publication”. In 2018, VR was assigned by the government to coordinate national efforts to implement open access to research data.
