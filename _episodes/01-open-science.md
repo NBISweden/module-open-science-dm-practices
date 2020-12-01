@@ -78,7 +78,11 @@ To illustrate some issues around research data, let us look at this short movie:
 
 Data Sharing and Management Snafu in 3 Short Acts
 
+#### References
 
+https://en.wikipedia.org/wiki/Open_science
+
+Rochelle Tractenberg “Unexpected Ethical Challenges in Bioinformatics and Genomics.”
 
 
 {% include links.md %}
