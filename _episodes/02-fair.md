@@ -57,7 +57,7 @@ A couple of things to note about FAIR:
 - The principles are not necessarily about open data
   - “As open as possible, as closed as necessary”
 - FAIRness is not something absolute
-  - Degrees of FAIRness
+  - Different levels of FAIR maturity
 - FAIR does not force any particular technical standards
 
 This is quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
