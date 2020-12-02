@@ -24,6 +24,21 @@ Of these, Open data and Open source are some of the main drivers for good Data M
 > ## Discussion
 >
 > What do you think are reasons for Open Data? Discuss with your neighbours.
+>
+> > ## Some reasons
+> >
+> > - Democracy and transparency
+> >   - Publicly funded research data should be accessible to all
+> >   - Published results and conclusions should be possible to check by others
+> > - Research
+> >   - Enables others to combine data, address new questions, and develop new analytical methods
+> >   - Reduce duplication and waste
+> > - Innovation and utilisation outside research
+> >   - Public authorities, companies, and private persons outside research can make use of the data
+> > - Academic merit
+> >   - Citation of data will be a merit for the researcher that produced it
+> >
+> {: .solution}
 {: .discussion}
 
 > ## Some reasons
