@@ -37,11 +37,11 @@ So what this mean? A brief condensed summary:
 #### Interoperable
 
 - Metadata use a formal, accessible, shared **language for knowledge representation**
-  - …
+  - Metadata is available in a form that even a computer can make use of
 - Metadata use **vocabularies** that follow the FAIR principles
-  - Standardised ways of capturing information about the data
+  - Standardised ways of capturing information about the data, that in themselves is FAIR
 - Metadata include qualified **references** to other metadata
-  - …
+  - If the data relies on other data, there must be links to those
 
 #### Reusable
 
@@ -52,6 +52,13 @@ So what this mean? A brief condensed summary:
 - Metadata meet domain-relevant community **standards**
   - Metadata is described according to existing standards in the research field
 
+A couple of things to note about FAIR:
+- Both humans and machines are intended users of data
+- The principles are not necessarily about open data
+  - “As open as possible, as closed as necessary”
+- FAIRness is not something absolute
+  - Degrees of FAIRness
+- FAIR does not force any particular technical standards
 
 This is quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
 
