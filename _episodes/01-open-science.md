@@ -55,6 +55,7 @@ It can be argued that not being transparent about the data and methods that are 
 > > - Research fraud has been exposed
 > > - The scientific process is not understood
 > > - …
+> >
 > > **Reproducibility**
 > > - Methods unclear
 > > - Software not available
