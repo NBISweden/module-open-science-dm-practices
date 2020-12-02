@@ -9,9 +9,4 @@ These lesson is about Open Science <TODO>
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-> ## Prerequisites
->
-> Pay attention <TODO>
-{: .prereq}
-
 {% include links.md %}

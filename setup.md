@@ -1,7 +1,7 @@
 ---
-title: Setup
+title: Slides
 ---
-Setup needed<TODO>
+Slides for this module are available [here](../files/open-science-data-management.pdf)
 
 
 {% include links.md %}
