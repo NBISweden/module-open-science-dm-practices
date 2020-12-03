@@ -3,11 +3,32 @@ layout: page
 title: "Licenses"
 root: .
 ---
+{% include links.md %}
 ## Instructional Material
+The instructional content of this lesson an adaptation of previous works and is made available under [CC-BY 4.0][cc-by-human] 
+by [NBIS - National Bioinformatics Infrastructure Sweden][nbis-site] 2020–{{ 'now' | date: "%Y"}}.
 
-All Software Carpentry, Data Carpentry, and Library Carpentry instructional material is
-made available under the [Creative Commons Attribution
-license][cc-by-human]. The following is a human-readable summary of
+Adaptation of lesson [FIXME: name of lesson](url)<br>
+Licensed under [CC-BY 4.0][cc-by-human] 2018–{{ 'now' | date: "%Y"}}
+by <a href="{{ site.carpentries_site }}">The Carpentries</a><br>
+Licensed under [CC-BY 4.0][cc-by-human] 2016–2018
+by <a href="{{ site.dc_site }}">Data Carpentry</a>
+
+Adaptation of lesson [FIXME: name of lesson](url)<br>
+Licensed under [CC-BY 4.0][cc-by-human] 2018–{{ 'now' | date: "%Y"}}
+by <a href="{{ site.carpentries_site }}">The Carpentries</a><br>
+Licensed under [CC-BY 4.0][cc-by-human] 2016–2018
+by <a href="{{ site.dc_site }}">Data Carpentry</a>
+
+Adaptation of lesson [FIXME: name of lesson](url)<br>
+Licensed under [CC-BY 4.0][cc-by-human] 2018–{{ 'now' | date: "%Y"}}
+by <a href="{{ site.carpentries_site }}">The Carpentries</a><br>
+Licensed under [CC-BY 4.0][cc-by-human] 2016–2018
+by <a href="{{ site.swc_site }}">Software Carpentry Foundation</a>
+
+Using a rebranded fork of [The Carpentries style][styles].
+
+The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
 license][cc-by-legal].
 
@@ -74,10 +95,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Trademark
 
 "Software Carpentry" and "Data Carpentry" and their respective logos
-are registered trademarks of [Community Initiatives][CI].
-
-[cc-by-human]: https://creativecommons.org/licenses/by/4.0/
-[cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
-[mit-license]: https://opensource.org/licenses/mit-license.html
-[ci]: http://communityin.org/
-[osi]: https://opensource.org
+are registered trademarks of [Community Initiatives][ci].
