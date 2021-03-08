@@ -3,11 +3,11 @@ title: "The political landscape"
 teaching: 5
 exercises: 0
 questions:
-- "External preasure for Open Science and FAIR"
+- "External pressure for Open Science and FAIR"
 objectives:
-- "To be acquainted with the surrounding preasure to adhere to the principles of Open Science and FAIR"
+- "To be acquainted with the surrounding pressure to adhere to the principles of Open Science and FAIR"
 keypoints:
-- "There is a strong political preasure for Open Science and FAIR, regionally, nationally, locally"
+- "There is a strong political pressure for Open Science and FAIR, regionally, nationally, locally"
 ---
 
 Why should you apply good data management practices and strive to make your research output FAIR?
