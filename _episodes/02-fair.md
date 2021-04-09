@@ -16,7 +16,7 @@ To try to guide the scientific community on how to ensure that the research data
 _“To be useful for others data should be FAIR - Findable, Accessible, Interoperable, and Reusable
 … for both Machines and Humans”_
 
-So what this mean? A brief condensed summary:
+So what does this mean? A brief condensed summary:
 
 #### Findable
 
