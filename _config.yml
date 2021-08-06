@@ -8,7 +8,7 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
 carpentry: "nbis"
-remote_theme: NBISweden/styles-dm-practices
+remote_theme: NBISweden/styles-dm-practices@canvas
 
 # Overall title for pages.
 title: "Open Science and FAIR"
