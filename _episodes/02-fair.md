@@ -73,3 +73,12 @@ The first thing is to start thinking about, and planning for, what practices I c
 - Clean up metadata and data to be consistent with the standards you have chosen
 - Submit your data to international public repositories, so others can find and reuse your data
 - Use scripted analysis of your data, that can be understood by others
+
+> ## Exercise: Reflect on your current data management practices
+>
+> - What data managment practices do you apply in your research projects today? Discuss with 2 of your neighbours.
+> - Use this matrix as an inspiration. Where are you on the scale?
+> ![support-your-data-rubric](../fig/support_your_data_rubric.png)
+{: .challenge}
+
+
