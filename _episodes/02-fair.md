@@ -76,7 +76,7 @@ The first thing is to start thinking about, and planning for, what practices I c
 
 > ## Exercise: Reflect on your current data management practices
 >
-> - What data managment practices do you apply in your research projects today? Discuss with 2 of your neighbours.
+> - What data management practices do you apply in your research projects today? Discuss with 2 of your neighbours.
 > - Use this matrix as an inspiration. Where are you on the scale?
 > ![support-your-data-rubric](../fig/support_your_data_rubric.png)
 > [*Borghi, J. (2018). Support your Data. University of California Curation Center (UC3)*](https://uc3.cdlib.org/2018/01/11/support-your-data/).
