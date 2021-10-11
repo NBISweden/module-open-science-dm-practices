@@ -77,9 +77,9 @@ To illustrate some issues around research data, let us look at this short movie:
 
 #### References
 
-https://en.wikipedia.org/wiki/Open_science
+[Open Science on Wikipedia](https://en.wikipedia.org/wiki/Open_science)
 
-Rochelle Tractenberg “Unexpected Ethical Challenges in Bioinformatics and Genomics.”
+Rochelle Trachtenberg, “[Unexpected Ethical Challenges in Bioinformatics and Genomics](https://www.academia.edu/40292349/Unexpected_Ethical_Challenges_in_Bioinformatics_and_Genomics)”
 
 
 {% include links.md %}
