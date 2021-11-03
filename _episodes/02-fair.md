@@ -79,7 +79,7 @@ The first thing is to start thinking about, and planning for, what practices I c
 > - What data management practices do you apply in your research projects today? Discuss with 2 of your neighbours.
 > - Use this matrix as an inspiration. Where are you on the scale?
 > ![support-your-data-rubric](../fig/support_your_data_rubric.png)
-> [*Borghi, J. (2018). Support your Data. University of California Curation Center (UC3)*](https://uc3.cdlib.org/2018/01/11/support-your-data/).
+> [*Borghi, J. et al (2018). Support your Data*](https://doi.org/10.3897/rio.4.e26439).
 {: .challenge}
 
 
