@@ -11,7 +11,7 @@ keypoints:
 _… for both Machines and Humans_"
 ---
 
-To try to guide the scientific community on how to ensure that the research data is useful for others in the digital age, the FAIR principles were published in 2016.
+To try to guide the scientific community on how to ensure that the research data is useful for others in the digital age, the [FAIR principles](http://dx.doi.org/10.1038/sdata.2016.18) were published in 2016.
 
 _“To be useful for others data should be FAIR - Findable, Accessible, Interoperable, and Reusable
 … for both Machines and Humans”_
@@ -86,3 +86,7 @@ The first thing is to start thinking about, and planning for, what practices I c
 > ![support-your-data-rubric](../fig/support_your_data_rubric.png)
 > [*Borghi, J. et al (2018). Support your Data*](https://doi.org/10.3897/rio.4.e26439).
 {: .challenge}
+
+#### References
+
+Wilkinson, Mark et al. “The FAIR Guiding Principles for scientific data management and stewardship”. Scientific Data 3, Article number: 160018 (2016) [http://dx.doi.org/10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)
