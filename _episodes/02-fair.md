@@ -11,7 +11,7 @@ keypoints:
 _… for both Machines and Humans_"
 ---
 
-To try to guide the scientific community on how to ensure that the research data is useful for others in the digital age, the FAIR principles were published in 2016.
+To try to guide the scientific community on how to ensure that the research data is useful for others in the digital age, the [FAIR principles](http://dx.doi.org/10.1038/sdata.2016.18) were published in 2016.
 
 _“To be useful for others data should be FAIR - Findable, Accessible, Interoperable, and Reusable
 … for both Machines and Humans”_
@@ -60,7 +60,12 @@ A couple of things to note about FAIR:
   - Different levels of FAIR maturity
 - FAIR does not force any particular technical standards
 
-This is quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
+A simple example of the use of FAIRified data is that it allows searching for very explicit datasets. The example search below will only retrieve *RNA-sequencing experiments* from *liver tissue* from the *common house mouse* with a *time series design*. Using the specific and controlled fields and terms used to describe the data makes it possible to be this specific. To find such data without these precise descriptions would make it very difficult to find. You would have to guess what terms the dataset creators might have used, and will probably have to go through a lot of irrelevant datasets.
+
+![arrayexpress_search](../fig/arrayexpress_search.jpg)
+*Picture source: [ArrayExpress @ EMBL-EBI](https://www.ebi.ac.uk/arrayexpress/search.html?query=%22organism%3Amus_musculus%22+AND+exptype%3A%22RNA-seq+of+coding+RNA%22+AND+expdesign%3A%22time+series%22+AND+%22organism+part%3Aliver%22+cle-open-access/more-open-access)*
+
+The FAIR principles are quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
 
 Which is easier, use practices that supports the FAIR principles from the start of a project (“FAIR at source“), or after it is done, when someone asks for it, retroactively?
 
@@ -82,4 +87,6 @@ The first thing is to start thinking about, and planning for, what practices I c
 > [*Borghi, J. et al (2018). Support your Data*](https://doi.org/10.3897/rio.4.e26439).
 {: .challenge}
 
+#### References
 
+Wilkinson, Mark et al. “The FAIR Guiding Principles for scientific data management and stewardship”. Scientific Data 3, Article number: 160018 (2016) [http://dx.doi.org/10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)
