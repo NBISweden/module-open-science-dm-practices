@@ -21,6 +21,9 @@ By Open Science we mean the movement to make scientific research and its dissemi
 
 Of these, Open data and Open source are some of the main drivers for good Data Management practices.
 
+![arrayexpress_search](../fig/OpenScienceBuildingBlocks.jpeg)
+*Picture source: [Open Science facets as a beehive](https://www.fosteropenscience.eu/content/what-open-science-introduction) by Gema Bueno de la Fuente licenced under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+
 > ## Discussion
 >
 > What do you think are reasons for Open Data? Discuss with your neighbours.
