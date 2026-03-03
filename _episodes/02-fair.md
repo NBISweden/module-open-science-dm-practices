@@ -62,7 +62,7 @@ A couple of things to note about FAIR:
 
 A simple example of the use of FAIRified data is that it allows searching for very explicit datasets. The example search below will only retrieve *RNA-sequencing experiments* from *liver tissue* from the *common house mouse* with a *time series design*. Using the specific and controlled fields and terms used to describe the data makes it possible to be this specific. To find such data without these precise descriptions would make it very difficult to find. You would have to guess what terms the dataset creators might have used, and will probably have to go through a lot of irrelevant datasets.
 
-![arrayexpress_search](../fig/arrayexpress_search.jpg)
+![arrayexpress_search]<img width="1185" height="976" alt="Array_express-search_202603" src="https://github.com/user-attachments/assets/47ef4203-2226-49bb-b305-b4106d4ed5a2" />
 *Picture source: [ArrayExpress @ EMBL-EBI](https://www.ebi.ac.uk/arrayexpress/search.html?query=%22organism%3Amus_musculus%22+AND+exptype%3A%22RNA-seq+of+coding+RNA%22+AND+expdesign%3A%22time+series%22+AND+%22organism+part%3Aliver%22+cle-open-access/more-open-access)*
 
 The FAIR principles are quite a mouthful, and a different angle on what is considered to be part of the scientific process for most researchers. So what is a poor researcher to do?
